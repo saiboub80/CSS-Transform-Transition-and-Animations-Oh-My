@@ -1,1 +1,21 @@
+img{
+    height: 50%;
+    width: 50%;
+}
+body{
+    text-align: center;
+}
+button{
+    width: 30%;
+    padding: 1.5em;
+    border: 0.2em rgb(225, 222, 222),
+   
+    
+}
+
+button:hover{
+    background-color: rgb(60, 60, 242);
+
+}
+
 
